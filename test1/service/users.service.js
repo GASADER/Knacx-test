@@ -1,4 +1,4 @@
-import sql from "../config/sqlConfig.js";
+import sql from "../config/sql.js";
 
 export const getUsers = () => {
   return new Promise((resolve, reject) => {
