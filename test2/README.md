@@ -1,3 +1,3 @@
 start program with 
  
- run start
+npm start
